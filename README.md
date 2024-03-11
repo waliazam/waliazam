@@ -1,30 +1,88 @@
 <h1 align="center">Hi 👋, I'm Wali Azam</h1>
 <h3 align="center">Navigating the Python Seas Towards Innovative Horizons</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=waliazam&label=Profile%20views&color=0e75b6&style=flat" alt="waliazam" /> </p>
-
-- 🔭 I’m currently working on **Data analysis, Python, Data science, DevOps**
-
-- 🌱 I’m currently learning **Machine Learning and AI, Data Analysis, and Scientific Computing**
-
-- 👯 I’m looking to collaborate on **Automation, Open Source**
-
-- 💬 Ask me about **DevOps, Python in Networking**
-
-- 📫 How to reach me **wali.azam13@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/waliazam12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waliazam12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/waliazam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waliazam/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=waliazam&label=Profile%20views&color=0e75b6&style=flat" alt="waliazam" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://twitter.com/waliazam12"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/waliazam/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waliazam&show_icons=true&locale=en&layout=compact" alt="waliazam" /></p>
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Data Analysis, Python, Data Science, DevOps, JavaScript, HTML, CSS, ReactJs**
+- 🌱 I’m currently learning **Machine Learning, AI, Advanced JavaScript, and React Techniques**
+- 👯 I’m looking to collaborate on **Web Development Projects, Automation, Open Source Projects**
+- 💬 Ask me about **DevOps, Python, JavaScript, React, Web Development**
+- 📫 How to reach me: **wali.azam13@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waliazam&show_icons=true&locale=en" alt="waliazam" /></p>
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<!-- Add more as needed -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waliazam&" alt="waliazam" /></p>
+### 📈 GitHub Stats
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waliazam&show_icons=true&theme=light&count_private=true" alt="waliazam's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waliazam&theme=light&layout=compact" alt="Top Languages" />
+
+  ![Wali's GitHub stats](https://github-readme-stats.vercel.app/api?username=waliazam&count_private=true&show_icons=true)
+
+</div>
+
+### 🔥 Streak Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waliazam" alt="waliazam" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=waliazam&theme=onedark&row=2&column=3" alt="GitHub Trophies" />
+</p>
+
+### 🚀 Dynamic Quote
+<div align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</div>
+
+
+### 🎓 Certifications
+
+#### AWS Certifications
+- **DevOps on AWS: Code, Build, and Test**  
+  ![DevOps on AWS: Code, Build, and Test Certificate](https://github.com/waliazam/waliazam/blob/certificates/code%20build%20and%20test.jpg?raw=true)  
+  [Verify here](https://coursera.org/verify/NMXXCPEMFL53)
+
+- **Containerized Applications on AWS**  
+  ![Containerized Applications on AWS Certificate](https://github.com/waliazam/waliazam/blob/certificates/containeriztion%20using%20docker.jpg?raw=true)  
+  [Verify here](https://coursera.org/share/fddab19f00937c844b2cdf357102a365)
+
+#### Coursera Project Network
+- **Containerization Using Docker**  
+  ![Containerization Using Docker Certificate](https://github.com/waliazam/waliazam/blob/certificates/contanerization%20on%20aws.jpg?raw=true)  
+  [Verify here](https://coursera.org/verify/DRBDH4KGHCHQ)
+
+#### Microsoft Certifications
+- **Microsoft Certified Educator: Technology Literacy for Educators 62-193**  
+  ![Microsoft Certified Educator Certificate](https://github.com/waliazam/waliazam/blob/certificates/MCE.png?raw=true)  
+  [Verify here](https://verify.certiport.com/EULd-XVb8)
+
+
+### 📚 Project Showcase
+<!-- Add links and images to your most impressive projects -->
+
+### 🤝 Connect with Me
+<!-- Your custom footer and call to action for collaborations -->
+<div align="left">
+  <a href="https://twitter.com/waliazam12"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/waliazam/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
+
 
